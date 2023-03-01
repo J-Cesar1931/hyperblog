@@ -38,3 +38,8 @@ p {
   text-align: center;
   color: deeppink;
 }
+
+#logo {
+  width: 30px;
+  height: 30px;
+}
