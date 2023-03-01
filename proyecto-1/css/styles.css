@@ -38,3 +38,14 @@ p {
   text-align: center;
   color: deeppink;
 }
+
+#footer p {
+  width: 70%;
+  color: black;
+  margin: 0 auto;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  background-color: gray;
+  margin-top: 10px;
+}
